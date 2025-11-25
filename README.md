@@ -16,9 +16,13 @@
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="50">
 </p>
 
-| My Github Streak | My Github Stats | My Most Used Languages |
+<div align="center">
+
+| ⚡ Streak | 🚀 Stats | 🌈 Languages |
 |---|---|---|
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=bfleenz&theme=tokyonight&mode=weekly&background=000000C6" /> | <img src="https://github-readme-stats.vercel.app/api?username=bfleenz&show_icons=true&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfleenz&layout=compact&theme=dark" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=bfleenz&theme=neon-palenight&hide_border=true&background=00000000" /> | <img src="https://github-readme-stats.vercel.app/api?username=bfleenz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfleenz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /> |
+
+</div>
 
 
 ---
