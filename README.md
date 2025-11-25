@@ -26,7 +26,23 @@
 
 ---
 
-### 📊 Github Contribution Graph (Aesthetic)
+### 🏆 Github Achievements (Always Works)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bfleenz&theme=onedark&no-frame=true&column=4" />
+</div>
+
+---
+
+### 📅 Commit Heatmap (Stable Version)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" />
+</div>
+
+---
+
+### 📊 Github Contribution Graph (Neon Aesthetic)
 
 <div align="center">
 
