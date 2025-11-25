@@ -6,20 +6,25 @@
 <br>
 
 <p align="center">
-  <img src="https://count.getloli.com/@sar.ahja_?name=SaragihJabinsar&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+  <img src="https://count.getloli.com/@sar.ahja_?name=SaragihJabinsar&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jim+Nightshade&size=35&pause=1000&color=17F72A&repeat=false&width=190&height=40&lines=My+Github+Stats" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jim+Nightshade&size=35&pause=1000&color=17F72A&repeat=false&width=260&height=40&lines=My+Github+Stats" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="50">
 </p>
 
 | My Github Streak | My Github Stats | My Most Used Languages |
 |---|---|---|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sar.ahja_&theme=tokyonight&mode=weekly&background=000000C6)](https://github.com/sar.ahja_) | [![SaragihJabinsar GitHub stats](https://github-readme-stats.vercel.app/api?username=sar.ahja_&show_icons=true&theme=radical)](https://github.com/sar.ahja_) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sar.ahja_&layout=compact&theme=dark)](https://github.com/sar.ahja_) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sar.ahja_&theme=tokyonight&mode=weekly&background=000000C6)](https://github.com/sar.ahja_) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sar.ahja_&show_icons=true&theme=radical)](https://github.com/sar.ahja_) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sar.ahja_&layout=compact&theme=dark)](https://github.com/sar.ahja_) |
 
-| My Github Contribution Graph |
+---
+
+### 📊 Github Contribution Graph
+
+| Contribution Graph |
 |---|
-| [![SaragihJabinsar](https://github-readme-activity-graph.vercel.app/graph?username=sar.ahja_&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+| [![sar.ahja_](https://github-readme-activity-graph.vercel.app/graph?username=sar.ahja_&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
