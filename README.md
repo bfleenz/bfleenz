@@ -18,7 +18,8 @@
 
 | My Github Streak | My Github Stats | My Most Used Languages |
 |---|---|---|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bfleenz&theme=tokyonight&mode=weekly&background=000000C6)](https://github.com/bfleenz) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bfleenz&show_icons=true&theme=radical)](https://github.com/bfleenz) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfleenz&layout=compact&theme=dark)](https://github.com/bfleenz) |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=bfleenz&theme=tokyonight&mode=weekly&background=000000C6" /> | <img src="https://github-readme-stats.vercel.app/api?username=bfleenz&show_icons=true&theme=radical" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfleenz&layout=compact&theme=dark" /> |
+
 
 ---
 
