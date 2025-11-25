@@ -12,21 +12,20 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jim+Nightshade&size=35&pause=1000&color=00ffcc&repeat=false&width=270&height=40&lines=Aesthetic+Github+Stats" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jim+Nightshade&size=35&pause=900&color=00EEFF&repeat=false&width=330&height=45&lines=Professional+Github+Statistics" />
 </p>
 
 <div align="center">
 
-| ⚡ Neon Streak | 💎 Profile Summary (Glow) | 🌈 Top Languages (Glow) |
+| 📊 GitHub Metrics (Pro) | 💎 Profile Summary (Glow) | 🌈 Top Languages (Glow) |
 |---|---|---|
-| <img src="https://streak-stats.demolab.com?user=bfleenz&theme=neon-dark&hide_border=true&date_format=%5BY.%5Dn.j" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfleenz&theme=github_dark" /> |
+| <img src="https://metrics.lecoq.io/bfleenz?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&base=header,activity,community,metadata&theme=dark" width="300"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfleenz&theme=github_dark" /> |
 
 </div>
 
 ---
 
-### 🏆 Github Achievements (Always Works)
+### 🏆 Github Achievements — Stable & Professional
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bfleenz&theme=onedark&no-frame=true&column=4" />
@@ -34,7 +33,7 @@
 
 ---
 
-### 📅 Commit Heatmap (Stable Version)
+### 📅 Commit Activity (Heatmap)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" />
@@ -42,7 +41,7 @@
 
 ---
 
-### 📊 Github Contribution Graph (Neon Aesthetic)
+### 📊 Contribution Graph (Neon Aesthetic)
 
 <div align="center">
 
