@@ -24,11 +24,15 @@
 
 </div>
 
-
 ---
 
 ### 📊 Github Contribution Graph
 
-| Contribution Graph |
-|---|
-| [![bfleenz](https://github-readme-activity-graph.vercel.app/graph?username=bfleenz&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bfleenz&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true" />
+
+</div>
+
+---
+
