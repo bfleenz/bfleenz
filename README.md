@@ -18,9 +18,9 @@
 
 <div align="center">
 
-| ⚡ Streak | 🚀 Stats | 🌈 Languages |
+| ⚡ Streak | 📊 Profile Summary | 🌈 Languages |
 |---|---|---|
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=bfleenz&theme=neon-palenight&hide_border=true&background=00000000" /> | <img src="https://github-readme-stats.vercel.app/api?username=bfleenz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfleenz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" /> |
+| <img src="https://streak-stats.demolab.com?user=bfleenz&theme=tokyonight&hide_border=true" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfleenz&theme=tokyonight" /> |
 
 </div>
 
