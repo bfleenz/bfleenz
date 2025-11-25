@@ -17,7 +17,7 @@
 
 <div align="center">
 
-| 📊 GitHub Metrics (Pro) | 💎 Profile Summary (Glow) | 🌈 Top Languages (Glow) |
+| 📊 GitHub Metrics | 💎 Profile Summary | 🌈 Top Languages  |
 |---|---|---|
 | <img src="https://metrics.lecoq.io/bfleenz?template=classic&base.header=0&base.activity=0&base.community=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&base=header,activity,community,metadata&theme=dark" width="300"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfleenz&theme=github_dark" /> |
 
