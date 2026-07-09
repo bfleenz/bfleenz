@@ -15,23 +15,23 @@
 
 <div align="right">
 
-<table width="88%">
+<table width="80%">
 
 <tr>
 
-<td width="58%" valign="top">
+<td width="56%" valign="top">
 
 <b>📄 Profile Details</b><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="96%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="93%"/>
 
 </td>
 
-<td width="42%" valign="top">
+<td width="44%" valign="top">
 
 <b>💻 Top Languages</b><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="96%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="93%"/>
 
 </td>
 
@@ -43,23 +43,50 @@
 
 <b>📅 Coding Activity</b><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="96%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="93%"/>
 
 </td>
 
 <td valign="top">
 
-<b>✨ Featured Projects</b><br>
+<b>✨ Featured Projects</b>
+
+<br>
 
 <sub>
 
-🔹 <a href="https://github.com/bfleenz/Yodo-Kost">Yodo Kost</a><br>
-🔹 <a href="https://github.com/bfleenz/Mosque-Finder">Mosque Finder</a><br>
-🔹 <a href="https://github.com/bfleenz/KF-OLX">KF-OLX Marketplace</a><br>
-🔹 <a href="https://github.com/bfleenz/Blog-CMS">Blog CMS</a><br>
-🔹 <a href="https://github.com/bfleenz/Weather-App">Weather App</a><br>
-🔹 <a href="https://github.com/bfleenz/Task-Manager">Task Manager</a><br>
-🔹 <a href="https://github.com/bfleenz/Notes-App">Notes App</a>
+🔹 <a href="https://github.com/bfleenz/Yodo-Kost"><b>Yodo Kost</b></a><br>
+WebGIS Boarding House Platform
+
+<br><br>
+
+🔹 <a href="https://github.com/bfleenz/Mosque-Finder"><b>Mosque Finder</b></a><br>
+GIS-based Mosque Locator
+
+<br><br>
+
+🔹 <a href="https://github.com/bfleenz/KF-OLX"><b>KF-OLX Marketplace</b></a><br>
+Buy & Sell Platform
+
+<br><br>
+
+🔹 <a href="https://github.com/bfleenz/Blog-CMS"><b>Blog CMS</b></a><br>
+Content Management System
+
+<br><br>
+
+🔹 <a href="https://github.com/bfleenz/Weather-App"><b>Weather App</b></a><br>
+Weather Forecast Application
+
+<br><br>
+
+🔹 <a href="https://github.com/bfleenz/Task-Manager"><b>Task Manager</b></a><br>
+Daily Productivity Tracker
+
+<br><br>
+
+🔹 <a href="https://github.com/bfleenz/Notes-App"><b>Notes App</b></a><br>
+Simple Note Taking App
 
 </sub>
 
@@ -79,24 +106,22 @@
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=bfleenz&bg_color=000000&color=4FC3F7&line=29B6F6&point=FFFFFF&area=true&hide_border=true"
-width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bfleenz&bg_color=000000&color=4FC3F7&line=29B6F6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
 <p align="left">
-<b><i>
-"Jangan pernah puas dengan pencapaianmu; selalu ada puncak yang lebih tinggi."
-</i></b>
+<i>
+Jangan pernah puas dengan pencapaianmu; selalu ada puncak yang lebih tinggi.
+</i>
 </p>
 
 <p align="right">
-<b><i>
-"Never settle for your achievements; there is always a higher peak ahead."
-</i></b>
+<i>
+Never settle for your achievements; there is always a higher peak ahead.
+</i>
 </p>
 
 <br>
