@@ -83,7 +83,11 @@
 
 ---
 
-<p align="left">
+<table width="100%">
+<tr>
+
+<td width="48%" align="left" valign="top">
+
 <sub><i>
 
 "Jangan pernah puas dengan apa yang telah kamu capai.<br>
@@ -91,15 +95,12 @@ Selalu ada puncak yang lebih tinggi untuk diraih."
 
 </i></sub>
 
-<p align="center">
-<sub><b>— Saragih Jabinsar —</b></sub>
-</p>
+</td>
 
-</p>
+<td width="4%"></td>
 
-<br>
+<td width="48%" align="right" valign="top">
 
-<p align="right">
 <sub><i>
 
 "Never settle for what you've achieved.<br>
@@ -107,8 +108,13 @@ There is always a higher peak to reach."
 
 </i></sub>
 
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <p align="center">
 <sub><b>— Saragih Jabinsar —</b></sub>
-</p>
-
 </p>
