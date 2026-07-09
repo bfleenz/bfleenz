@@ -62,7 +62,7 @@
 
 <td width="4%"></td>
 
-<td width="42%" align="left" valign="top">
+<td width="42%" align="right" valign="top">
 
 <b>Projects</b>
 
