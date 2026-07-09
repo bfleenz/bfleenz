@@ -10,59 +10,56 @@
 ---
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=340&height=35&lines=Development+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=340&height=35&lines=Development+Insights"/>
 </p>
 
-<table width="100%">
+<div align="right">
+
+<table width="82%">
+
 <tr>
 
-<td width="48%" align="left" valign="top">
+<td width="58%" align="center" valign="top">
 
-<b>Profile Details</b>
+<b>📄 Profile Details</b>
 
-<br>
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="400"/>
 
 </td>
 
-<td width="4%"></td>
+<td width="42%" align="center" valign="top">
 
-<td width="48%" align="right" valign="top">
+<b>💻 Top Languages</b>
 
-<b>Top Languages</b>
+<br><br>
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="320"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="280"/>
 
 </td>
 
 </tr>
-</table>
 
-<br>
-
-<table width="100%">
 <tr>
 
-<td width="48%" align="left" valign="top">
+<td align="center" valign="top">
 
-<b>Activity</b>
+<b>📅 Coding Activity</b>
 
-<br>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="320"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="300"/>
 
 </td>
 
-<td width="4%"></td>
+<td align="center" valign="top">
 
-<td width="48%" align="right" valign="top">
-
-<b>Projects</b>
+<b>✨ Featured Projects</b>
 
 <br>
+
+<div align="left">
 
 <a href="https://github.com/bfleenz/Yodo-Kost">🗺️ Yodo Kost</a><br>
 <a href="https://github.com/bfleenz/Mosque-Finder">🕌 Mosque Finder</a><br>
@@ -72,15 +69,20 @@
 <a href="https://github.com/bfleenz/Task-Manager">✅ Task Manager</a><br>
 <a href="https://github.com/bfleenz/Notes-App">📒 Notes App</a>
 
+</div>
+
 </td>
 
 </tr>
+
 </table>
+
+</div>
 
 ---
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=310&height=35&lines=Contribution+Graph"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=310&height=35&lines=Contribution+Graph"/>
 </p>
 
 <div align="center">
@@ -92,6 +94,7 @@
 ---
 
 <table width="100%">
+
 <tr>
 
 <td align="left" width="48%">
@@ -119,4 +122,5 @@ There is always a higher peak to reach."
 </td>
 
 </tr>
+
 </table>
