@@ -39,11 +39,26 @@
 
 ---
 
-<p align="right">
+<table width="100%">
+<tr>
 
-<i>
-"Never be satisfied with what you've achieved.<br>
-There is always a higher peak waiting to be reached."
-</i>
+<td align="left" valign="top" width="50%">
 
-</p>
+##### 🇮🇩 Filosofi
+
+> *"Jangan pernah puas dengan apa yang telah kamu capai.  
+> Selalu ada puncak yang lebih tinggi untuk diraih."*
+
+</td>
+
+<td align="right" valign="top" width="50%">
+
+##### 🇺🇸 Philosophy
+
+> *"Never settle for what you've achieved.  
+> There is always a higher peak to reach."*
+
+</td>
+
+</tr>
+</table>
