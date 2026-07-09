@@ -10,31 +10,31 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=320&height=35&lines=Development+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=340&height=35&lines=Development+Insights"/>
 </p>
 
 <table width="100%">
 <tr>
 
-<td width="54%" align="center" valign="top">
+<td width="48%" align="left" valign="top">
 
 <b>Profile Details</b>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="420"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="400"/>
 
 </td>
 
 <td width="4%"></td>
 
-<td width="42%" align="center" valign="top">
+<td width="48%" align="right" valign="top">
 
 <b>Top Languages</b>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="280"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="320"/>
 
 </td>
 
@@ -46,23 +46,19 @@
 <table width="100%">
 <tr>
 
-<td width="54%" align="center" valign="top">
-
-<div align="left">
+<td width="48%" align="left" valign="top">
 
 <b>Activity</b>
 
-</div>
-
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="300"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="320"/>
 
 </td>
 
 <td width="4%"></td>
 
-<td width="42%" align="right" valign="top">
+<td width="48%" align="right" valign="top">
 
 <b>Projects</b>
 
@@ -84,7 +80,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=290&height=35&lines=Contribution+Graph"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=310&height=35&lines=Contribution+Graph"/>
 </p>
 
 <div align="center">
