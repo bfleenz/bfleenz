@@ -15,23 +15,23 @@
 
 <div align="right">
 
-<table width="80%">
+<table width="72%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0;">
 
 <tr>
 
-<td width="56%" valign="top">
+<td width="58%" valign="top" style="border:1px solid #111111;padding:3px;">
 
 <b>📄 Profile Details</b><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="93%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="100%"/>
 
 </td>
 
-<td width="44%" valign="top">
+<td width="42%" valign="top" style="border:1px solid #111111;padding:3px;">
 
 <b>💻 Top Languages</b><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="93%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="100%"/>
 
 </td>
 
@@ -39,19 +39,19 @@
 
 <tr>
 
-<td valign="top">
+<td valign="top" style="border:1px solid #111111;padding:3px;">
 
 <b>📅 Coding Activity</b><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="93%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="100%"/>
 
 </td>
 
-<td valign="top">
+<td valign="top" style="border:1px solid #111111;padding:8px;">
 
 <b>✨ Featured Projects</b>
 
-<br>
+<br><br>
 
 <sub>
 
@@ -112,20 +112,44 @@ Simple Note Taking App
 
 ---
 
-<p align="left">
+<div align="right">
+
+<table width="72%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0;">
+
+<tr>
+
+<td style="border:1px solid #111111;padding:10px;">
+
 <i>
 Jangan pernah puas dengan pencapaianmu; selalu ada puncak yang lebih tinggi.
 </i>
-</p>
 
-<p align="right">
+</td>
+
+</tr>
+
+<tr>
+
+<td align="right" style="border:1px solid #111111;padding:10px;">
+
 <i>
 Never settle for your achievements; there is always a higher peak ahead.
 </i>
-</p>
 
-<br>
+</td>
 
-<p align="center">
+</tr>
+
+<tr>
+
+<td align="center" style="border:1px solid #111111;padding:8px;">
+
 <b>— Saragih Jabinsar —</b>
-</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
