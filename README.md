@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Irish+Grover&size=40&pause=1000&width=320&height=60&lines=Saragih+Jabinsar" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Irish+Grover&size=40&pause=1000&width=340&height=60&lines=Saragih+Jabinsar" alt="Typing SVG">
   <img src="https://media.tenor.com/cLwPGk0As8YAAAAi/reaver-ep5spray-gd_dhi-k.gif" width="85">
 </p>
 
@@ -10,7 +10,7 @@
 ---
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=999999&color=4FC3F7&repeat=false&width=310&lines=Github+Overview"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=420&height=35&lines=Development+Dashboard"/>
 </p>
 
 <div align="center">
@@ -19,11 +19,7 @@
 |:---:|:---:|
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="430"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="250"/> |
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="340"/>
 
@@ -32,7 +28,7 @@
 ---
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=999999&color=4FC3F7&repeat=false&width=340&lines=Contribution+Activity"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=360&height=35&lines=Contribution+Graph"/>
 </p>
 
 <div align="center">
@@ -43,8 +39,11 @@
 
 ---
 
-<p align="center">
+<p align="right">
 
-> *"Build with purpose, learn with passion."*
+<i>
+"Never be satisfied with what you've achieved.<br>
+There is always a higher peak waiting to be reached."
+</i>
 
 </p>
