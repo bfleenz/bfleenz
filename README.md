@@ -10,17 +10,17 @@
 ---
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=360&height=35&lines=Development+Insights"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=320&height=35&lines=Development+Insights"/>
 </p>
 
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="54%" align="center" valign="top">
 
-<b>📄 Profile Details</b>
+<b>Profile Details</b>
 
-<br><br>
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="420"/>
 
@@ -28,13 +28,13 @@
 
 <td width="4%"></td>
 
-<td width="46%" align="center" valign="top">
+<td width="42%" align="center" valign="top">
 
-<b>💻 Top Languages</b>
+<b>Top Languages</b>
 
-<br><br>
+<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="300"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="280"/>
 
 </td>
 
@@ -46,11 +46,15 @@
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="54%" align="center" valign="top">
 
-<b>📅 Coding Activity</b>
+<div align="left">
 
-<br><br>
+<b>Activity</b>
+
+</div>
+
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="300"/>
 
@@ -58,19 +62,19 @@
 
 <td width="4%"></td>
 
-<td width="46%" valign="top">
+<td width="42%" align="left" valign="top">
 
-<b>✨ Featured Projects</b>
+<b>Projects</b>
 
-<br><br>
+<br>
 
-<a href="https://github.com/bfleenz/Yodo-Kost"><b>🗺️ Yodo Kost</b></a><br><br>
-
-<a href="https://github.com/bfleenz/KF-OLX"><b>🛒 KF-OLX Marketplace</b></a><br><br>
-
-<a href="https://github.com/bfleenz/Weather-App"><b>🌤️ Weather App</b></a><br><br>
-
-<a href="https://github.com/bfleenz/Blog-CMS"><b>📝 Blog CMS</b></a>
+<a href="https://github.com/bfleenz/Yodo-Kost">🗺️ Yodo Kost</a><br>
+<a href="https://github.com/bfleenz/Mosque-Finder">🕌 Mosque Finder</a><br>
+<a href="https://github.com/bfleenz/KF-OLX">🛒 KF-OLX Marketplace</a><br>
+<a href="https://github.com/bfleenz/Blog-CMS">📝 Blog CMS</a><br>
+<a href="https://github.com/bfleenz/Weather-App">🌤️ Weather App</a><br>
+<a href="https://github.com/bfleenz/Task-Manager">✅ Task Manager</a><br>
+<a href="https://github.com/bfleenz/Notes-App">📒 Notes App</a>
 
 </td>
 
@@ -80,7 +84,7 @@
 ---
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=320&height=35&lines=Contribution+Graph"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=290&height=35&lines=Contribution+Graph"/>
 </p>
 
 <div align="center">
