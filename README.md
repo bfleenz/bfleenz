@@ -19,7 +19,7 @@
 
 <tr>
 
-<td width="58%" align="center" valign="top">
+<td width="58%" align="center" valign="top" height="255">
 
 <b>📄 Profile Details</b>
 
@@ -29,7 +29,7 @@
 
 </td>
 
-<td width="42%" align="center" valign="top">
+<td width="42%" align="center" valign="top" height="255">
 
 <b>💻 Top Languages</b>
 
@@ -43,7 +43,7 @@
 
 <tr>
 
-<td align="center" valign="top">
+<td width="58%" align="center" valign="top" height="230">
 
 <b>📅 Coding Activity</b>
 
@@ -53,21 +53,25 @@
 
 </td>
 
-<td align="center" valign="top">
+<td width="42%" valign="top" height="230">
+
+<div align="center">
 
 <b>✨ Featured Projects</b>
 
-<br>
+</div>
+
+<br><br>
 
 <div align="left">
 
-<a href="https://github.com/bfleenz/Yodo-Kost">🗺️ Yodo Kost</a><br>
-<a href="https://github.com/bfleenz/Mosque-Finder">🕌 Mosque Finder</a><br>
-<a href="https://github.com/bfleenz/KF-OLX">🛒 KF-OLX Marketplace</a><br>
-<a href="https://github.com/bfleenz/Blog-CMS">📝 Blog CMS</a><br>
-<a href="https://github.com/bfleenz/Weather-App">🌤️ Weather App</a><br>
-<a href="https://github.com/bfleenz/Task-Manager">✅ Task Manager</a><br>
-<a href="https://github.com/bfleenz/Notes-App">📒 Notes App</a>
+🗺️ <a href="https://github.com/bfleenz/Yodo-Kost">Yodo Kost</a><br>
+🕌 <a href="https://github.com/bfleenz/Mosque-Finder">Mosque Finder</a><br>
+🛒 <a href="https://github.com/bfleenz/KF-OLX">KF-OLX Marketplace</a><br>
+📝 <a href="https://github.com/bfleenz/Blog-CMS">Blog CMS</a><br>
+🌤️ <a href="https://github.com/bfleenz/Weather-App">Weather App</a><br>
+✅ <a href="https://github.com/bfleenz/Task-Manager">Task Manager</a><br>
+📒 <a href="https://github.com/bfleenz/Notes-App">Notes App</a>
 
 </div>
 
@@ -97,7 +101,7 @@
 
 <tr>
 
-<td align="left" width="48%">
+<td width="48%" align="left" valign="top">
 
 <sub><i>
 
@@ -110,7 +114,7 @@ Selalu ada puncak yang lebih tinggi untuk diraih."
 
 <td width="4%"></td>
 
-<td align="right" width="48%">
+<td width="48%" align="right" valign="top">
 
 <sub><i>
 
