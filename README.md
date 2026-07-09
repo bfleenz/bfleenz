@@ -19,23 +19,23 @@
 
 <tr>
 
-<td width="58%" align="center" valign="top" height="255">
+<td width="58%" align="center" valign="top">
 
 <b>📄 Profile Details</b>
 
-<br><br>
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="400"/>
 
 </td>
 
-<td width="42%" align="center" valign="top" height="255">
+<td width="42%" align="center" valign="top">
 
 <b>💻 Top Languages</b>
 
-<br><br>
+<br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="280"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfleenz&theme=github_dark" width="280"/>
 
 </td>
 
@@ -43,17 +43,17 @@
 
 <tr>
 
-<td width="58%" align="center" valign="top" height="230">
+<td width="58%" align="center" valign="top">
 
 <b>📅 Coding Activity</b>
 
-<br><br>
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="300"/>
 
 </td>
 
-<td width="42%" valign="top" height="230">
+<td width="42%" valign="top">
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="left">
 
