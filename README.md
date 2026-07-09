@@ -15,23 +15,27 @@
 
 <div align="right">
 
-<table width="72%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0;">
+<table width="82%">
 
 <tr>
 
-<td width="58%" valign="top" style="border:1px solid #111111;padding:3px;">
+<td width="58%" align="center" valign="top">
 
-<b>📄 Profile Details</b><br>
+<b>📄 Profile Details</b>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="100%"/>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="400"/>
 
 </td>
 
-<td width="42%" valign="top" style="border:1px solid #111111;padding:3px;">
+<td width="42%" align="center" valign="top">
 
-<b>💻 Top Languages</b><br>
+<b>💻 Top Languages</b>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="100%"/>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bfleenz&theme=github_dark" width="280"/>
 
 </td>
 
@@ -39,56 +43,37 @@
 
 <tr>
 
-<td valign="top" style="border:1px solid #111111;padding:3px;">
+<td width="58%" align="center" valign="top">
 
-<b>📅 Coding Activity</b><br>
+<b>📅 Coding Activity</b>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="100%"/>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="300"/>
 
 </td>
 
-<td valign="top" style="border:1px solid #111111;padding:8px;">
+<td width="42%" valign="top">
+
+<div align="center">
 
 <b>✨ Featured Projects</b>
 
-<br><br>
+</div>
 
-<sub>
+<br>
 
-🔹 <a href="https://github.com/bfleenz/Yodo-Kost"><b>Yodo Kost</b></a><br>
-WebGIS Boarding House Platform
+<div align="left">
 
-<br><br>
+🗺️ <a href="https://github.com/bfleenz/Yodo-Kost">Yodo Kost</a><br>
+🕌 <a href="https://github.com/bfleenz/Mosque-Finder">Mosque Finder</a><br>
+🛒 <a href="https://github.com/bfleenz/KF-OLX">KF-OLX Marketplace</a><br>
+📝 <a href="https://github.com/bfleenz/Blog-CMS">Blog CMS</a><br>
+🌤️ <a href="https://github.com/bfleenz/Weather-App">Weather App</a><br>
+✅ <a href="https://github.com/bfleenz/Task-Manager">Task Manager</a><br>
+📒 <a href="https://github.com/bfleenz/Notes-App">Notes App</a>
 
-🔹 <a href="https://github.com/bfleenz/Mosque-Finder"><b>Mosque Finder</b></a><br>
-GIS-based Mosque Locator
-
-<br><br>
-
-🔹 <a href="https://github.com/bfleenz/KF-OLX"><b>KF-OLX Marketplace</b></a><br>
-Buy & Sell Platform
-
-<br><br>
-
-🔹 <a href="https://github.com/bfleenz/Blog-CMS"><b>Blog CMS</b></a><br>
-Content Management System
-
-<br><br>
-
-🔹 <a href="https://github.com/bfleenz/Weather-App"><b>Weather App</b></a><br>
-Weather Forecast Application
-
-<br><br>
-
-🔹 <a href="https://github.com/bfleenz/Task-Manager"><b>Task Manager</b></a><br>
-Daily Productivity Tracker
-
-<br><br>
-
-🔹 <a href="https://github.com/bfleenz/Notes-App"><b>Notes App</b></a><br>
-Simple Note Taking App
-
-</sub>
+</div>
 
 </td>
 
@@ -101,55 +86,45 @@ Simple Note Taking App
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=315&height=35&lines=Contribution+Graph"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=310&height=35&lines=Contribution+Graph"/>
 </p>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bfleenz&bg_color=000000&color=4FC3F7&line=29B6F6&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bfleenz&bg_color=000000&color=4FC3F7&line=29B6F6&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="right">
-
-<table width="72%" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border-spacing:0;">
+<table width="100%">
 
 <tr>
 
-<td style="border:1px solid #111111;padding:10px;">
+<td width="48%" align="left" valign="top">
 
-<i>
-Jangan pernah puas dengan pencapaianmu; selalu ada puncak yang lebih tinggi.
-</i>
+<sub><i>
+
+"Jangan pernah puas dengan apa yang telah kamu capai.
+Selalu ada puncak yang lebih tinggi untuk diraih."
+
+</i></sub>
 
 </td>
 
-</tr>
+<td width="4%"></td>
 
-<tr>
+<td width="48%" align="right" valign="top">
 
-<td align="right" style="border:1px solid #111111;padding:10px;">
+<sub><i>
 
-<i>
-Never settle for your achievements; there is always a higher peak ahead.
-</i>
+"Never settle for what you've achieved.
+There is always a higher peak to reach."
 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" style="border:1px solid #111111;padding:8px;">
-
-<b>— Saragih Jabinsar —</b>
+</i></sub>
 
 </td>
 
 </tr>
 
 </table>
-
-</div>
