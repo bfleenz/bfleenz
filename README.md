@@ -10,7 +10,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=420&height=35&lines=Development+Dashboard"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=360&height=35&lines=Development+Insights"/>
 </p>
 
 <div align="center">
@@ -28,7 +28,7 @@
 ---
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=360&height=35&lines=Contribution+Graph"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Marcellus&size=24&pause=999999&color=4FC3F7&repeat=false&width=320&height=35&lines=Contribution+Graph"/>
 </p>
 
 <div align="center">
@@ -42,21 +42,25 @@
 <table width="100%">
 <tr>
 
-<td align="left" valign="top" width="50%">
+<td align="left" width="48%">
 
-##### 🇮🇩 Filosofi
+<sub><i>
 
-> *"Jangan pernah puas dengan apa yang telah kamu capai.  
-> Selalu ada puncak yang lebih tinggi untuk diraih."*
+"Jangan pernah puas dengan apa yang telah kamu capai.
+Selalu ada puncak yang lebih tinggi untuk diraih."
+
+</i></sub>
 
 </td>
 
-<td align="right" valign="top" width="50%">
+<td align="right" width="48%">
 
-##### 🇺🇸 Philosophy
+<sub><i>
 
-> *"Never settle for what you've achieved.  
-> There is always a higher peak to reach."*
+"Never settle for what you've achieved.
+There is always a higher peak to reach."
+
+</i></sub>
 
 </td>
 
