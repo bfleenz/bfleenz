@@ -21,7 +21,9 @@
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="340"/>
+| 📅 Coding Activity | ✨ Featured Works |
+|:---:|:---|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="320"/> | 🔹 **[🗺️ Yodo Kost](https://github.com/bfleenz/Yodo-Kost)**<br><br>🔹 **[🛒 KF-OLX Marketplace](https://github.com/bfleenz/KF-OLX)**<br><br>🔹 **[🌤️ Weather App](https://github.com/bfleenz/Weather-App)**<br><br>🔹 **[📝 Blog CMS](https://github.com/bfleenz/Blog-CMS)** |
 
 </div>
 
