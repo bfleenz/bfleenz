@@ -19,26 +19,65 @@
 |:---:|:---:|
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfleenz&theme=github_dark" width="430"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bfleenz&theme=github_dark" width="250"/> |
 
+</div>
+
 <br>
 
-| 📅 Coding Activity | 📂 Selected Works |
-|:---:|:---|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="320"/> | <pre>
+<table width="100%">
+<tr>
+
+<td width="46%" align="center" valign="top">
+
+<b>📅 Coding Activity</b>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfleenz&theme=github_dark" width="320"/>
+
+</td>
+
+<td width="8%"></td>
+
+<td width="46%" valign="top">
+
+<b>📂 Selected Works</b>
+
+<br>
+
+```text
 WebGIS
-├── <a href="https://github.com/bfleenz/Yodo-Kost">Yodo Kost</a>
-└── <a href="https://github.com/bfleenz/Mosque-Finder">Mosque Finder</a>
+├── Yodo Kost
+└── Mosque Finder
 
 Business
-├── <a href="https://github.com/bfleenz/KF-OLX">KF-OLX Marketplace</a>
-└── <a href="https://github.com/bfleenz/Blog-CMS">Blog CMS</a>
+├── KF-OLX Marketplace
+└── Blog CMS
 
 Mini Projects
-├── <a href="https://github.com/bfleenz/Weather-App">Weather App</a>
-├── <a href="https://github.com/bfleenz/Task-Manager">Task Manager</a>
-└── <a href="https://github.com/bfleenz/Notes-App">Notes App</a>
-</pre> |
+├── Weather App
+├── Task Manager
+└── Notes App
+```
 
-</div>
+🔗 **Repositories**
+
+- **WebGIS**
+  - <a href="https://github.com/bfleenz/Yodo-Kost">Yodo Kost</a>
+  - <a href="https://github.com/bfleenz/Mosque-Finder">Mosque Finder</a>
+
+- **Business**
+  - <a href="https://github.com/bfleenz/KF-OLX">KF-OLX Marketplace</a>
+  - <a href="https://github.com/bfleenz/Blog-CMS">Blog CMS</a>
+
+- **Mini Projects**
+  - <a href="https://github.com/bfleenz/Weather-App">Weather App</a>
+  - <a href="https://github.com/bfleenz/Task-Manager">Task Manager</a>
+  - <a href="https://github.com/bfleenz/Notes-App">Notes App</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
